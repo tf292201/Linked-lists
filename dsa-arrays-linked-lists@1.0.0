@@ -1,0 +1,4 @@
+
+> dsa-arrays-linked-lists@1.0.0 test
+> jest "linked-list.test.js" "test"
+
